@@ -1,0 +1,7 @@
+版本:Unity 2018.3.14
+
+UWA網址__https://lab.uwa4d.com/lab/5bfabec072745c25a87259a9
+
+本人Github網址__https://github.com/z1125411235/UWA_SoftBodySimulation
+
+官方Github網址__https://github.com/chrismarch/SoftBodySimulation
